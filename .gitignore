@@ -1,5 +1,6 @@
 *
-!/data
+!data/
+!data/**
 !/.gitignore
 !/README.md
 !/1D-FEM-HF.ipynb
